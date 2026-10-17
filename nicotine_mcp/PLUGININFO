@@ -1,0 +1,4 @@
+Version = "0.1.0"
+Authors = ["Dorian"]
+Name = "Nicotine MCP"
+Description = "Runs a local MCP server (http://127.0.0.1:8765/mcp by default) so an AI assistant such as Claude can search Soulseek, look up artist discographies on MusicBrainz and queue downloads.\n\nOnly accepts connections from this computer."
